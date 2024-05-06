@@ -1,0 +1,8 @@
+Here is the specification for Assignment 7. The due date is April 6, 2024. Please submit on Gradescope.
+
+----------
+
+Consider the language you used for Assignment 6 or some extension thereof, and design and implement (in OCaml) the Krivine machine that implements Call-by-Name semantics. 
+
+As usual, make whatever design choices you deem fit, and provide test cases which demonstrate that your implementations of the machine runs correctly.
+
