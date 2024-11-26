@@ -46,14 +46,23 @@ Average: 56.1
 Median: 58.1
 Total students: 279
 A : 14
+
 A-: 37
+
 B : 56
+
 B-: 66   (Median lies towards the upper part of this range and Mean lies in this range)
+
 C :  47
+
 C-: 29
+
 D :  10
+
 E : 4
+
 F : 10
+
 W: 6
 
 I succesfully got a A in this course, without having a great minor. I would suggest that, it is possible to get a perfect 10 in all assignments and in almost all quizzes. This did help me cover up from minor.
