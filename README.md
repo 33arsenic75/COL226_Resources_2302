@@ -40,11 +40,17 @@ Course BreakDown :- 45 (Assignment) + 5 (Quizzes) + 5 (Major Quiz) + 20(Minor Ex
 
 ### 5. Grading
 Following is the statistics of the class shared by the proffesor.
+
 Max: 89
+
 Min 0
+
 Average: 56.1
+
 Median: 58.1
+
 Total students: 279
+
 A : 14
 
 A-: 37
