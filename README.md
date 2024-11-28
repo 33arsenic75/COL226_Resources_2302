@@ -22,7 +22,7 @@ This repository contains various course materials including assignments, quizzes
 - **Assignment 8**: Prolog Interpreter in OCaml
 
 The weightage of assignments were :- 5 5 6 7 5 5 5 7 for A1 through A8 respectively.
-- **Note**: Except Assignment 1, all my assignment submission recieved 100/100. But use/refer on your own risk.
+- **Note**: Except Assignment 1(9/10), all my assignment submission recieved 10/10. But use/refer on your own risk.
 
 ### 2. Quizzes
 - Contains most of the quizzes.
